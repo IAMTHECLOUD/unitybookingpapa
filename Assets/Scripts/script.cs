@@ -1,9 +1,10 @@
-﻿using System.Collections.Generic;
+﻿//Hello, I am commenting on this. Sorry if I break this.
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class script: MonoBehaviour
+public class Script: MonoBehaviour
 {
     public float speed;
     public int speedInt;
